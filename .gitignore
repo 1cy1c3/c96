@@ -1,0 +1,8 @@
+# General
+.DS_Store
+
+# GHDL
+*.o
+c96_tb
+*.vcd
+*.cf
